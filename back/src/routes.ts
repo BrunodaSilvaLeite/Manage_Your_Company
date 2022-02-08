@@ -2,7 +2,7 @@ import { Router } from "express"
 //Create items
 import { CreateCompanyController } from "./controller/CreateCompanyController";
 import { CreateUnitController } from "./controller/CreateUnitController";
-
+import { UpdateAssetController } from "./controller/UpdateAssetController";
 //List ALL items
 import { ListCompanyController } from "./controller/ListCompanyController";
 import { ListUnitController } from "./controller/ListUnitController";
