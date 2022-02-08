@@ -28,12 +28,14 @@ Units have multiple assets, these assets are machines with multiple fields: name
 
 And the main idea is to visualize the units and assets in general, or to visualize a single specific unit.
 
-## 🏃 How to Run
+## 🏃 How to Run back
+
 - Make a fork;
 - Open the project on your terminal;
+- cd/back
 - Run `yarn install` or `npm install` to install Dependencies;
 - Connect with your mongodb in Database folder
-- Run `yarn start` or `npm run start` to run the server;
+- Run `yarn dev` or `npm run dev` to run the server;
 - By default the server will run at `localhost:3000`.
 
 ## 🤔 How to contribute
