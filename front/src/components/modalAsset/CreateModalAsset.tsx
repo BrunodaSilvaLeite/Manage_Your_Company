@@ -80,7 +80,6 @@ export function CreateModalAsset({ onClose = () => { }, unitId }: any) {
                             <label>Name</label>
                             <input
                                 type="text"
-                                maxLength="20"
                                 name="name"
                                 className="form-control"
                                 id="erro"
@@ -169,7 +168,6 @@ export function CreateModalAsset({ onClose = () => { }, unitId }: any) {
                                 <label>Name</label>
                                 <input
                                     type="text"
-                                    maxLength="20"
                                     name="name"
                                     className="form-control"
                                     id="exampleFormControlInput1"
