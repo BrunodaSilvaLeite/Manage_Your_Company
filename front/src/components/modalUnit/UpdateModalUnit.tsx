@@ -83,7 +83,6 @@ export function UpdateModalUnit({ onClose = () => { } }) {
                             <input
                                 required
                                 type="text"
-                                maxLength="15"
                                 name="name"
                                 className="form-control"
                                 id="erro"
@@ -97,7 +96,6 @@ export function UpdateModalUnit({ onClose = () => { } }) {
                             <input
                                 required
                                 type="text"
-                                maxLength="15"
                                 name="name"
                                 className="form-control"
                                 id="exampleFormControlInput1"
