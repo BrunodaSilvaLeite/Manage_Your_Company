@@ -82,7 +82,7 @@ export function UpdateModalCompany({ onClose = () => { } }) {
                     <div className="form-group">
                         <label>Name</label>
                         <input
-                            maxLength="20"
+    
                             type="text"
                             name="name"
                             className="form-control"

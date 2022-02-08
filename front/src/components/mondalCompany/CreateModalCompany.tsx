@@ -60,7 +60,6 @@ export function CreateModalCompany({ onClose = () => { } }) {
                                 id="erro"
                                 placeholder="Required Field"
                                 onChange={onChange}
-                                maxLength="20"
                             />
                             :
                             <input
@@ -71,7 +70,6 @@ export function CreateModalCompany({ onClose = () => { } }) {
                                 id="exampleFormControlInput1"
                                 placeholder="Name"
                                 onChange={onChange}
-                                maxLength="20"
 
                             />}
 
