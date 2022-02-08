@@ -1,0 +1,131 @@
+.modal-container-user {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 85vh;   
+  background-color: #d3d1d1;
+
+  form {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 1em;
+    width: 40%;
+    height: 60%;
+  
+  }
+  input {
+    padding: 0.5em;
+    margin: 5px;
+  }
+}
+.modal-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  background-color: rgba(7, 5, 5, 0.634);
+
+  #green {
+    border-left: 3px solid #3daa51;
+  }
+  #blue {
+    border-left: 3px solid #4895ff;
+  }
+  #red {
+    border-left: 3px solid #bd303b;
+  }
+
+  #button-Create{
+
+    background-color:#3daa51;
+    border: 1px solid #3daa51;
+  }
+  #button-Update{
+    margin-top: 20px;
+    background-color: #4895ff;
+    border: 1px solid #4895ff;
+  }
+  #button-remove{
+    margin-top: 20px;
+    background-color: #bd303b;
+    border: 1px solid #bd303b;
+  }
+.modal-create {
+  width: 40%;
+  height: 95%;
+}
+.modal-update {
+  width: 40%;
+  height: 98%;
+  input {
+    padding: 0.5em;
+    margin: 5px;
+  }
+}
+  form {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    border-radius: 8px;
+    padding: 1em;
+    width: 40%;
+    height: 60%;
+  
+    input {
+      width: 300px;
+      margin: 10px;
+    }
+
+    label {
+      margin-bottom: 5px;
+      
+    }
+    select {
+      width: 300px;
+      cursor: pointer;
+      margin: 10px;
+    }
+    h2 {
+      
+        margin-bottom: 20px;
+    }
+    p {
+      font-size: 13px;
+    }
+    #modal-asset-create {
+      height: 3000px;
+    }
+    #erro {
+      border: 1px solid red;
+    }
+    #erroSelect {
+      border: 1px solid red;
+    }
+    #erro::-webkit-input-placeholder{
+      color: rgba(255, 0, 0, 0.524);
+    }
+    #emptyValue {
+      color: red;
+      
+    }
+    #emptyValuebutton {
+      background-color: #bd303b;
+      border: 1px solid  #bd303b;
+    }
+   
+  }
+}
