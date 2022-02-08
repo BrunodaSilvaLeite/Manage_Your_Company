@@ -38,6 +38,16 @@ And the main idea is to visualize the units and assets in general, or to visuali
 - Run `yarn dev` or `npm run dev` to run the server;
 - By default the server will run at `localhost:3000`.
 
+## 🏃 How to Run front
+
+- Make a fork;
+- Open the project on your terminal;
+- cd/front
+- Run `yarn install` or `npm install` to install Dependencies;
+- Connect with your mongodb in Database folder
+- Run `yarn start` or `npm run start` to run the server;
+- By default the server will run at `localhost:3001`.
+
 ## 🤔 How to contribute
 - Make a fork;
 - Create a branch with your feature: `git checkout -b my-feature`;
