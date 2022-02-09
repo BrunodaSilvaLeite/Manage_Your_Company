@@ -12,7 +12,7 @@
   <a href="#-License">License📝</a>
 </p>
 
-## 🚧 Results
+## 🚧 Result
 
 ![153102523-b62a08ed-b678-4ef8-a8a0-d072bbbfb00d](https://user-images.githubusercontent.com/72769991/153102922-ec37050b-09dd-41e0-96b1-cbfd26b08525.gif) 
 
