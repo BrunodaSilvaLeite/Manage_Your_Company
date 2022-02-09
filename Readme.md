@@ -1,5 +1,5 @@
 <p align = "center" >
-  <h1 align="center">ManageYourCompany</h1>
+  <h1 align="center">Manage Your Company 📈</h1>
   <p align="center">under construction 👷</p>
 </p>
 
