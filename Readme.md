@@ -35,7 +35,7 @@ Units have multiple assets, these assets are machines with multiple fields: name
 And the main idea is to visualize the units and assets in general, or to visualize a single specific unit.
 
 ## 🚨 very important
-It's very important to have the database powered on (if locally) and connected to your mongodb too, it's very important to power on the backend before the front.
+It's very important to have the database powered on (locally) and connected to your mongodb too, it's very important to power on the backend before the front.
 
 ## 🏃 How to Run back
 
