@@ -5,11 +5,17 @@
 
 <p align="center">
   <a href="#-Technologies">Technologies🚀</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Project">Project🧑‍</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-How to Run">How to Run🏃</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Project">Project🧑‍💻</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-How to Run back">How to Run back🏃</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-How to Run front">How to Run front🏃</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-How to contribute">How to contribute🤔</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-License">License📝</a>
+  <a href="#License">License📝</a>
 </p>
+
+## 🚧 Results
+
+![153102523-b62a08ed-b678-4ef8-a8a0-d072bbbfb00d](https://user-images.githubusercontent.com/72769991/153102922-ec37050b-09dd-41e0-96b1-cbfd26b08525.gif) 
+
 
 ## 🚀 Technologies
 This project was developed with:
@@ -27,6 +33,10 @@ This is a project with the intention of exercising my Backend skills with NodeJs
 Units have multiple assets, these assets are machines with multiple fields: name,image,description,model,owner,status,healthLevel.
 
 And the main idea is to visualize the units and assets in general, or to visualize a single specific unit.
+
+## 🚨 very important
+It is very important to have the database turned on too (if it is locally) and connected with your mongodb too, it is very important to turn on the backend before the front.
+
 
 ## 🏃 How to Run back
 
